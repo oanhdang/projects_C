@@ -1,6 +1,7 @@
 # Collections of mini projects for C programming language
 
-## Mandellbrot
+## Mandelbrot Set
+This project implements Mandelbrot set visualization.
 
 ## Card game
 
